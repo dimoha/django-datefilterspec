@@ -2,5 +2,6 @@
 *.egg-info
 dist/
 .coverage
+.idea
 .tox/
 htmlcov/
